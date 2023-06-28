@@ -10,7 +10,7 @@ I'm @marthakifle, a BI Analyst with a passion for data analysis and visualizatio
 - Data exploration and modeling
 
 💼 Professional Experience:
-I am a Sr. Analyst, BI & Analytics at JLL, where I was responsible for analyzing complex datasets, creating insightful reports, and providing data-driven recommendations to support business strategies. I have hands-on experience in SQL, data visualization tools, and dashboard development.
+I am a Sr. Analyst, BI & Analytics at JLL, where I am responsible for analyzing complex datasets, creating insightful reports, and providing data-driven recommendations to support business strategies. I have hands-on experience in SQL, data visualization tools, and dashboard development.
 
 📚 Education:
 I hold a degree in Economics from Loyola Marymount University. During my studies, I gained a strong foundation in data analysis, statistics, and data management.
